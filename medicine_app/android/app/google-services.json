@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789763260938",
+    "project_id": "medismart-37b87",
+    "storage_bucket": "medismart-37b87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789763260938:android:c46ea9f05164e2f92515f3",
+        "android_client_info": {
+          "package_name": "com.example.medicine_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoP1YkfVWXkeJIdI5orx9CpA0BIPuzfj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
